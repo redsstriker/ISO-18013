@@ -9,7 +9,7 @@ The International Standards Organisation allows working groups to be able share 
 
 ISO develops open standards that can be used by the global community.  If you would like to be part of the development community for ISO go to https://www.iso.org/get-involved.html 
 
-ISO/IEC JTC 1/SC 17/WG 10 or just Working Group 10 (WG10) standardized Motor Vehicle Driver Licences and related devices.
+ISO/IEC JTC 1/SC 17/WG 10 or just Working Group 10 (WG10) standardized Motor Vehicle Driver Licences and related documents.
 
 
 ** Purpose **
